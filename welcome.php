@@ -3,3 +3,8 @@
  ?>
 Your account has beeb created 
 to access your accout <a href="index.php?chk=3">Click here</a></h2>
+
+
+<?php
+echo "Hello World!";
+?> 
